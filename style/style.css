@@ -1,0 +1,17 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    align-content: center;
+}
+
+main {
+    justify-self: center;
+    justify-content: center;
+    align-content: center;
+    width: 300px;
+    height: fit-content;
+    padding: 5px;
+    background-color: hsl(210, 46%, 95%);
+    font-family: 'Inter', sans-serif;
+}
