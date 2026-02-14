@@ -42,10 +42,18 @@ span {
     font-weight: 500;
 }
 
+a {
+    text-decoration: none;
+}
+
 h1 {
     color: hsl(0, 0%, 7%);
     font-weight: 900;
     font-size: 17px;
+}
+
+h1:hover {
+    color: hsl(47, 88%, 63%);
 }
 
 p {
